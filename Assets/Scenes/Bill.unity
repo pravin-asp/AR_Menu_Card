@@ -1031,7 +1031,7 @@ MonoBehaviour:
     m_LineSpacing: 1
   m_Text: 'Chef''s Pan Restaurant''s
 
-    Digital Bill'
+    Order List'
 --- !u!222 &250633754
 CanvasRenderer:
   m_ObjectHideFlags: 0
