@@ -1,0 +1,372 @@
+fileFormatVersion: 2
+guid: 32da850fdddd5844e8034fb0e13c80a9
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ice_cream_0001:group1
+    100004: ice_cream_0001:group11
+    100006: ice_cream_0001:group12
+    100008: ice_cream_0001:group3
+    100010: ice_cream_0001:group4
+    100012: ice_cream_0001:group5
+    100014: ice_cream_0001:group6
+    100016: ice_cream_0001:group7
+    100018: ice_cream_0001:group8
+    100020: ice_cream_0001:group9
+    100022: ice_cream_0001:pCube1
+    100024: ice_cream_0001:pCube2
+    100026: ice_cream_0001:pCube3
+    100028: ice_cream_0001:pCube6
+    100030: ice_cream_0001:pCube7
+    100032: ice_cream_0001:pCylinder1
+    100034: ice_cream_0001:pCylinder10
+    100036: ice_cream_0001:pCylinder11
+    100038: ice_cream_0001:pCylinder12
+    100040: ice_cream_0001:pCylinder13
+    100042: ice_cream_0001:pCylinder14
+    100044: ice_cream_0001:pCylinder15
+    100046: ice_cream_0001:pCylinder16
+    100048: ice_cream_0001:pCylinder17
+    100050: ice_cream_0001:pCylinder17 1
+    100052: ice_cream_0001:pCylinder18
+    100054: ice_cream_0001:pCylinder19
+    100056: ice_cream_0001:pCylinder2
+    100058: ice_cream_0001:pCylinder2 1
+    100060: ice_cream_0001:pCylinder2 2
+    100062: ice_cream_0001:pCylinder2 3
+    100064: ice_cream_0001:pCylinder2 4
+    100066: ice_cream_0001:pCylinder2 5
+    100068: ice_cream_0001:pCylinder3
+    100070: ice_cream_0001:pCylinder3 1
+    100072: ice_cream_0001:pCylinder3 2
+    100074: ice_cream_0001:pCylinder3 3
+    100076: ice_cream_0001:pCylinder3 4
+    100078: ice_cream_0001:pCylinder3 5
+    100080: ice_cream_0001:pCylinder4
+    100082: ice_cream_0001:pCylinder4 1
+    100084: ice_cream_0001:pCylinder4 2
+    100086: ice_cream_0001:pCylinder4 3
+    100088: ice_cream_0001:pCylinder4 4
+    100090: ice_cream_0001:pCylinder4 5
+    100092: ice_cream_0001:pCylinder5
+    100094: ice_cream_0001:pCylinder5 1
+    100096: ice_cream_0001:pCylinder5 2
+    100098: ice_cream_0001:pCylinder5 3
+    100100: ice_cream_0001:pCylinder5 4
+    100102: ice_cream_0001:pCylinder5 5
+    100104: ice_cream_0001:pCylinder6
+    100106: ice_cream_0001:pCylinder7
+    100108: ice_cream_0001:pCylinder8
+    100110: ice_cream_0001:pCylinder9
+    100112: ice_cream_0001:polySurface1
+    100114: ice_cream_0001:polySurface2
+    100116: ice_cream_0001:polySurface3
+    100118: ice_cream_0001:polySurface4
+    100120: ice_cream_0001:polySurface5
+    100122: ice_cream_0001:pSphere1
+    100124: ice_cream_0001:pSphere1 1
+    100126: ice_cream_0001:transform1
+    100128: ice_cream_0001:transform2
+    100130: ice_cream_0001:transform3
+    100132: ice_cream_0001:transform4
+    100134: ice_cream_0001:transform5
+    100136: ice_cream_0001:transform6
+    100138: ice_cream_0001:transform7
+    100140: ice_cream_0001:transform8
+    100142: ice_cream_0001:transform9
+    400000: //RootNode
+    400002: ice_cream_0001:group1
+    400004: ice_cream_0001:group11
+    400006: ice_cream_0001:group12
+    400008: ice_cream_0001:group3
+    400010: ice_cream_0001:group4
+    400012: ice_cream_0001:group5
+    400014: ice_cream_0001:group6
+    400016: ice_cream_0001:group7
+    400018: ice_cream_0001:group8
+    400020: ice_cream_0001:group9
+    400022: ice_cream_0001:pCube1
+    400024: ice_cream_0001:pCube2
+    400026: ice_cream_0001:pCube3
+    400028: ice_cream_0001:pCube6
+    400030: ice_cream_0001:pCube7
+    400032: ice_cream_0001:pCylinder1
+    400034: ice_cream_0001:pCylinder10
+    400036: ice_cream_0001:pCylinder11
+    400038: ice_cream_0001:pCylinder12
+    400040: ice_cream_0001:pCylinder13
+    400042: ice_cream_0001:pCylinder14
+    400044: ice_cream_0001:pCylinder15
+    400046: ice_cream_0001:pCylinder16
+    400048: ice_cream_0001:pCylinder17
+    400050: ice_cream_0001:pCylinder17 1
+    400052: ice_cream_0001:pCylinder18
+    400054: ice_cream_0001:pCylinder19
+    400056: ice_cream_0001:pCylinder2
+    400058: ice_cream_0001:pCylinder2 1
+    400060: ice_cream_0001:pCylinder2 2
+    400062: ice_cream_0001:pCylinder2 3
+    400064: ice_cream_0001:pCylinder2 4
+    400066: ice_cream_0001:pCylinder2 5
+    400068: ice_cream_0001:pCylinder3
+    400070: ice_cream_0001:pCylinder3 1
+    400072: ice_cream_0001:pCylinder3 2
+    400074: ice_cream_0001:pCylinder3 3
+    400076: ice_cream_0001:pCylinder3 4
+    400078: ice_cream_0001:pCylinder3 5
+    400080: ice_cream_0001:pCylinder4
+    400082: ice_cream_0001:pCylinder4 1
+    400084: ice_cream_0001:pCylinder4 2
+    400086: ice_cream_0001:pCylinder4 3
+    400088: ice_cream_0001:pCylinder4 4
+    400090: ice_cream_0001:pCylinder4 5
+    400092: ice_cream_0001:pCylinder5
+    400094: ice_cream_0001:pCylinder5 1
+    400096: ice_cream_0001:pCylinder5 2
+    400098: ice_cream_0001:pCylinder5 3
+    400100: ice_cream_0001:pCylinder5 4
+    400102: ice_cream_0001:pCylinder5 5
+    400104: ice_cream_0001:pCylinder6
+    400106: ice_cream_0001:pCylinder7
+    400108: ice_cream_0001:pCylinder8
+    400110: ice_cream_0001:pCylinder9
+    400112: ice_cream_0001:polySurface1
+    400114: ice_cream_0001:polySurface2
+    400116: ice_cream_0001:polySurface3
+    400118: ice_cream_0001:polySurface4
+    400120: ice_cream_0001:polySurface5
+    400122: ice_cream_0001:pSphere1
+    400124: ice_cream_0001:pSphere1 1
+    400126: ice_cream_0001:transform1
+    400128: ice_cream_0001:transform2
+    400130: ice_cream_0001:transform3
+    400132: ice_cream_0001:transform4
+    400134: ice_cream_0001:transform5
+    400136: ice_cream_0001:transform6
+    400138: ice_cream_0001:transform7
+    400140: ice_cream_0001:transform8
+    400142: ice_cream_0001:transform9
+    2100000: ice_cream_0001_aiStandardSurface4
+    2100002: ice_cream_0001_aiStandardSurface3
+    2100004: ice_cream_0001_aiStandardSurface1
+    2100006: ice_cream_0001_strubere
+    2100008: ice_cream_0001_aiStandardSurface5
+    2100010: ice_cream_0001_aiStandardSurface7
+    2100012: ice_cream_0001_aiStandardSurface6
+    2100014: ice_cream_0001_aiStandardSurface8
+    2100016: ice_cream_0001_aiStandardSurface9
+    2300000: ice_cream_0001:pCube1
+    2300002: ice_cream_0001:pCube2
+    2300004: ice_cream_0001:pCube3
+    2300006: ice_cream_0001:pCube6
+    2300008: ice_cream_0001:pCube7
+    2300010: ice_cream_0001:pCylinder1
+    2300012: ice_cream_0001:pCylinder10
+    2300014: ice_cream_0001:pCylinder11
+    2300016: ice_cream_0001:pCylinder12
+    2300018: ice_cream_0001:pCylinder13
+    2300020: ice_cream_0001:pCylinder14
+    2300022: ice_cream_0001:pCylinder15
+    2300024: ice_cream_0001:pCylinder16
+    2300026: ice_cream_0001:pCylinder17
+    2300028: ice_cream_0001:pCylinder17 1
+    2300030: ice_cream_0001:pCylinder18
+    2300032: ice_cream_0001:pCylinder19
+    2300034: ice_cream_0001:pCylinder2
+    2300036: ice_cream_0001:pCylinder2 1
+    2300038: ice_cream_0001:pCylinder2 2
+    2300040: ice_cream_0001:pCylinder2 3
+    2300042: ice_cream_0001:pCylinder3
+    2300044: ice_cream_0001:pCylinder3 1
+    2300046: ice_cream_0001:pCylinder3 2
+    2300048: ice_cream_0001:pCylinder3 3
+    2300050: ice_cream_0001:pCylinder4
+    2300052: ice_cream_0001:pCylinder4 1
+    2300054: ice_cream_0001:pCylinder4 2
+    2300056: ice_cream_0001:pCylinder4 3
+    2300058: ice_cream_0001:pCylinder5
+    2300060: ice_cream_0001:pCylinder5 1
+    2300062: ice_cream_0001:pCylinder5 2
+    2300064: ice_cream_0001:pCylinder5 3
+    2300066: ice_cream_0001:pCylinder6
+    2300068: ice_cream_0001:pCylinder7
+    2300070: ice_cream_0001:pCylinder8
+    2300072: ice_cream_0001:pCylinder9
+    2300074: ice_cream_0001:polySurface1
+    2300076: ice_cream_0001:polySurface2
+    2300078: ice_cream_0001:polySurface3
+    2300080: ice_cream_0001:polySurface4
+    2300082: ice_cream_0001:polySurface5
+    2300084: ice_cream_0001:pSphere1
+    2300086: ice_cream_0001:pSphere1 1
+    3300000: ice_cream_0001:pCube1
+    3300002: ice_cream_0001:pCube2
+    3300004: ice_cream_0001:pCube3
+    3300006: ice_cream_0001:pCube6
+    3300008: ice_cream_0001:pCube7
+    3300010: ice_cream_0001:pCylinder1
+    3300012: ice_cream_0001:pCylinder10
+    3300014: ice_cream_0001:pCylinder11
+    3300016: ice_cream_0001:pCylinder12
+    3300018: ice_cream_0001:pCylinder13
+    3300020: ice_cream_0001:pCylinder14
+    3300022: ice_cream_0001:pCylinder15
+    3300024: ice_cream_0001:pCylinder16
+    3300026: ice_cream_0001:pCylinder17
+    3300028: ice_cream_0001:pCylinder17 1
+    3300030: ice_cream_0001:pCylinder18
+    3300032: ice_cream_0001:pCylinder19
+    3300034: ice_cream_0001:pCylinder2
+    3300036: ice_cream_0001:pCylinder2 1
+    3300038: ice_cream_0001:pCylinder2 2
+    3300040: ice_cream_0001:pCylinder2 3
+    3300042: ice_cream_0001:pCylinder3
+    3300044: ice_cream_0001:pCylinder3 1
+    3300046: ice_cream_0001:pCylinder3 2
+    3300048: ice_cream_0001:pCylinder3 3
+    3300050: ice_cream_0001:pCylinder4
+    3300052: ice_cream_0001:pCylinder4 1
+    3300054: ice_cream_0001:pCylinder4 2
+    3300056: ice_cream_0001:pCylinder4 3
+    3300058: ice_cream_0001:pCylinder5
+    3300060: ice_cream_0001:pCylinder5 1
+    3300062: ice_cream_0001:pCylinder5 2
+    3300064: ice_cream_0001:pCylinder5 3
+    3300066: ice_cream_0001:pCylinder6
+    3300068: ice_cream_0001:pCylinder7
+    3300070: ice_cream_0001:pCylinder8
+    3300072: ice_cream_0001:pCylinder9
+    3300074: ice_cream_0001:polySurface1
+    3300076: ice_cream_0001:polySurface2
+    3300078: ice_cream_0001:polySurface3
+    3300080: ice_cream_0001:polySurface4
+    3300082: ice_cream_0001:polySurface5
+    3300084: ice_cream_0001:pSphere1
+    3300086: ice_cream_0001:pSphere1 1
+    4300000: ice_cream_0001:pCylinder1
+    4300002: ice_cream_0001:pCube3
+    4300004: ice_cream_0001:pCube1
+    4300006: ice_cream_0001:pCube2
+    4300008: ice_cream_0001:pCube6
+    4300010: ice_cream_0001:pCylinder4
+    4300012: ice_cream_0001:pCylinder5
+    4300014: ice_cream_0001:pCylinder2
+    4300016: ice_cream_0001:pCylinder3
+    4300018: ice_cream_0001:pCylinder10
+    4300020: ice_cream_0001:pCylinder11
+    4300022: ice_cream_0001:pCylinder12
+    4300024: ice_cream_0001:pCylinder15
+    4300026: ice_cream_0001:pCylinder18
+    4300028: ice_cream_0001:pCylinder4
+    4300030: ice_cream_0001:pCylinder5
+    4300032: ice_cream_0001:pCylinder2
+    4300034: ice_cream_0001:pCylinder3
+    4300036: ice_cream_0001:pCylinder4
+    4300038: ice_cream_0001:pCylinder5
+    4300040: ice_cream_0001:pCylinder2
+    4300042: ice_cream_0001:pCylinder3
+    4300044: ice_cream_0001:pCylinder13
+    4300046: ice_cream_0001:pCylinder14
+    4300048: ice_cream_0001:pCylinder16
+    4300050: ice_cream_0001:pCylinder4
+    4300052: ice_cream_0001:pCylinder5
+    4300054: ice_cream_0001:pCylinder2
+    4300056: ice_cream_0001:pCylinder3
+    4300058: ice_cream_0001:pCylinder6
+    4300060: ice_cream_0001:pCylinder7
+    4300062: ice_cream_0001:pCylinder8
+    4300064: ice_cream_0001:pCylinder9
+    4300066: ice_cream_0001:pCylinder19
+    4300068: ice_cream_0001:polySurface1
+    4300070: ice_cream_0001:polySurface2
+    4300072: ice_cream_0001:polySurface3
+    4300074: ice_cream_0001:polySurface4
+    4300076: ice_cream_0001:polySurface5
+    4300078: ice_cream_0001:pCube7
+    4300080: ice_cream_0001:pSphere1
+    4300082: ice_cream_0001:pCylinder17
+    4300084: ice_cream_0001:pSphere1
+    4300086: ice_cream_0001:pCylinder17
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
